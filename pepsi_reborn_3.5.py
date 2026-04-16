@@ -22,7 +22,7 @@ g = ("    exit    ")
 import random
 import time
 
-print('hello, its pepsi_3.0_reborn!')
+print('hello, its pepsi_3.5_reborn!')
 print('--------------------------------')
 
 while True:
